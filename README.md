@@ -41,6 +41,14 @@ Scipy is a Python meta-package that includes other Scientific and Mathematics pa
 - Others
 
 
+## Resources
+
+Throw in here any link that you think that is relevant or useful.
+
+- [SOM implementation in Python](http://www.pymvpa.org/examples/som.html)
+- [Som implementation in Python source](https://github.com/PyMVPA/PyMVPA/blob/c9ed9d71a425fe4b8b2ebaa7e6def71d62449764/mvpa2/mappers/som.py)
+
+
 # Copyright
 
 Copyright 2014 Dario Huggenberger, Pedro Araujo, Francisco Guijarro
