@@ -20,7 +20,14 @@ And you are all set!
 > Other options include [Anaconda](http://continuum.io/downloads), but
 use Entought Canopy to promote smooth team work.
 
+### Getting Started
 
+Make you sure you have git installed, open `git bash` in windows (or a regular terminal in Linux / Unix system) and type:
+
+````bash
+git clone https://github.com/franleplant/SOM SOM
+cd SOM
+```
 
 ## Docs
 
