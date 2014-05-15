@@ -29,6 +29,9 @@ git clone https://github.com/franleplant/SOM SOM
 cd SOM
 ```
 
+Its a good idea lo learn git. Here it is a summary of a [common workflow](https://github.com/franleplant/git-101).
+It also contains some useful links and tutorials.
+
 ## Docs
 
 We are going to be using Scipy heavily, please refer to
