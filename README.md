@@ -34,6 +34,8 @@ It also contains some useful links and tutorials.
 
 ## Docs
 
+We are using the [wiki](https://github.com/franleplant/SOM/wiki) intensively. Please check it up.
+
 We are going to be using Scipy heavily, please refer to
 [Scipy Docs](http://www.scipy.org/docs.html).
 Scipy is a Python meta-package that includes other Scientific and Mathematics packages, the most important are:
