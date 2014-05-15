@@ -55,7 +55,13 @@ python file.py
 
 You'll see the result if any in the CLI (Command Line Interface)
 
+
+Its a good idea lo learn git. Here it is a summary of a [common workflow](https://github.com/franleplant/git-101).
+It also contains some useful links and tutorials.
+
 ## Docs
+
+We are using the [wiki](https://github.com/franleplant/SOM/wiki) intensively. Please check it up.
 
 We are going to be using Scipy heavily, please refer to
 [Scipy Docs](http://www.scipy.org/docs.html).
