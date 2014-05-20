@@ -8,7 +8,13 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-MAX_POINT_NUMBER = 270
+MAX_POINT_NUMBER = 10
+
+
+# Use this instead of Point classs
+# http://docs.scipy.org/doc/numpy/reference/generated/numpy.recarray.html
+
+# TODO: Replace the Point class to just plain multidimensional arrrays
 
 # consider making this part of the constructor of Point
 def random():
