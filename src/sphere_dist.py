@@ -1,5 +1,6 @@
 import scipy.constants as const
 import numpy.random as Random
+from numpy import linalg as LA
 
 
 from mpl_toolkits.mplot3d import axes3d
@@ -18,7 +19,7 @@ class Point:
 		self.z = z
 
 	def module(self):
-		return ( self.x**2 + self.y**2 + self.z**2 )**(0.5)
+		return LA.norm([self.x,self.y,self.z])
 
 	def standarize(self):	
 		module = float(self.module())
